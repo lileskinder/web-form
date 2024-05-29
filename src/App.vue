@@ -6,7 +6,7 @@
 import SingupForm from './components/Singup-form.vue'
 export default {
   name: 'App',
-  components: {SingupForm}
+  components: { SingupForm }
 }
 </script>
 
@@ -20,7 +20,7 @@ export default {
   margin-top: 60px;
 }
 
-body{
+body {
   margin: 0;
   background: #eee;
 }
